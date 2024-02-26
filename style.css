@@ -1,0 +1,68 @@
+
+* {
+margin: 0;
+padding: 0;
+
+}
+
+.main-info {
+ background-color: #F5F7F8;
+}
+
+h1 {
+    color: #45474B;
+    text-align: center;
+    padding-top: 50px;
+    font-family: "Sacramento", cursive;
+    font-size: 100px;
+}
+
+h2 {
+    color: #F4CE14;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 50px;
+}
+
+.personal-image {
+    display: flex;
+    justify-content: center;
+}
+.personal-image img{
+    height: 200px;
+    border-radius: 50%;
+    margin: 30px ;
+}
+
+.more-info {
+    text-align: center;
+}
+
+.personal-experiance {
+    padding-bottom: 30px;
+}
+
+.icons {
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+}
+
+.icon{
+    height: 40px;
+    margin-right: 5px;
+}
+.icon-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px;
+}
+
+p {
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    text-align: center;
+    
+}
+
